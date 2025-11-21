@@ -1,0 +1,60 @@
+html {
+	overflow-y: scroll;
+}
+
+body {
+  color: #aaa;
+  background-color: #111;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+pre, code {
+	margin: 0;
+}
+
+#header {
+  text-align: center;
+  background-color: #1a1a1a;
+  padding: 10px;
+  margin: 0;
+  border: 1px solid #666;
+}
+
+#header h1, p {
+  padding: 0;
+  margin: 0;
+}
+
+#header h1 {
+  color: #ddd;
+}
+
+#header p {
+  color: #aaa;
+}
+
+#content {
+  color: #aaa;
+  max-width: 30%;
+  margin-left: 35%;
+  margin-top: 3rem;
+  padding: 15px;
+  border: 1px solid #666;
+  background-color: #1a1a1a;
+}
+
+pre {
+  max-height: 150px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  background-color: #ffffff0f;
+  max-width: fit-content;
+  padding: 5px;
+  margin: 5px 0;
+}
+
+code {
+  background-color: #ffffff0f;
+}
