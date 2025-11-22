@@ -8,6 +8,7 @@ body {
     font-family: sans-serif;
     margin: 0;
     padding: 0;
+    text-align: center;
 }
 
 pre, code {
@@ -36,6 +37,7 @@ pre, code {
 }
 
 #content {
+    text-align: left;
     color: #aaa;
     max-width: 30%;
     margin-left: 35%;
@@ -59,4 +61,6 @@ code {
     background-color: #ffffff0f;
 }
 
-
+#footer {
+    text-align: center;
+}
