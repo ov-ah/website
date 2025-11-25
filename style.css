@@ -47,6 +47,18 @@ pre, code {
     background-color: #1a1a1a;
 }
 
+@media (max-width: 600px) {
+    #content {
+	text-align: leftl;
+	color: #aaa;
+	max-width: 100%;
+	margin: 1%;
+	padding: 5px;
+	border: 1px solid #666;
+	background-color: #1a1a1a;
+    }
+}
+
 pre {
     max-height: 150px;
     overflow-x: hidden;
