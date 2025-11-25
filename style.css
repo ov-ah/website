@@ -39,7 +39,7 @@ pre, code {
 #content {
     text-align: left;
     color: #aaa;
-    max-width: 30%;
+    width: 30%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 3rem;
