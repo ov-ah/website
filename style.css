@@ -40,7 +40,7 @@ pre, code {
     text-align: left;
     color: #aaa;
     max-width: 30%;
-    margin-left: 35%;
+    margin-left: auto 0;
     margin-top: 3rem;
     padding: 15px;
     border: 1px solid #666;
