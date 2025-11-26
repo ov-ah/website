@@ -52,11 +52,11 @@ pre, code {
     #content {
 	text-align: leftl;
 	color: #aaa;
-	width: 100%;
+	width: 96%;
 	margin-left: 0;
 	margin-right: 0;
-	margin: 5px;
-	padding: 5px;
+	margin: 1%;
+	padding: 1%;
 	border: 1px solid #666;
 	background-color: #1a1a1a;
     }
