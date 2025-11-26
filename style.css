@@ -52,7 +52,7 @@ pre, code {
     #content {
 	text-align: leftl;
 	color: #aaa;
-	max-width: 100%;
+	width: 100%;
 	margin-left: 0;
 	margin-right: 0;
 	margin: 5px;
